@@ -41,20 +41,6 @@ DocQ Chat is an AI-powered document query system that allows users to upload PDF
 ### 2. Context-Aware Responses
 ![Screenshot 2025-04-19 165215](https://github.com/user-attachments/assets/c7b4ac5c-e7cf-45a0-8b8f-cd9f6dfc1650)
 
-##  Project Structure
-
-DocQ-Chat/
-├── frontend/
-│   ├── index.html
-│   ├── script.js
-│   └── style.css
-├── backend/
-│   ├── app.py
-│   ├── rag_chain.py
-│   ├── requirements.txt
-│   └── .venv/
-├── README.md
-
 ##  Installation Guide
 
 ### 1. Clone the Repository
