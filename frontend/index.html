@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>DocQ Chat</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="chat-container">
+        <div class="header">
+            <h1>DocQ Chat</h1>
+            <div class="upload-section">
+                <input type="file" id="fileUpload" />
+                <button onclick="uploadFile()">Upload PDF</button>
+            </div>
+        </div>
+        <div id="chat">
+            <div id="messages"></div>
+            <div class="input-container">
+                <input type="text" id="userInput" placeholder="Ask something..." />
+                <button onclick="sendQuestion()">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
