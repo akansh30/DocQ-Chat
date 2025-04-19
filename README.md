@@ -1,4 +1,4 @@
-# DocQ Chat : llama3-70b-8192
+# DocQ Chat : llama-3.3-70b-versatile
 
 ## Introduction
 
