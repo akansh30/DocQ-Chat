@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DocQ Chat is an AI-powered document query system that allows users to upload PDF files and ask questions about their contents. It leverages state-of-the-art NLP and RAG techniques to provide contextual and meaningful responses. This version features a Flask backend and a separate frontend.
+DocQ Chat is a PDF chatbot powered by the Groq API, providing quick and context-aware answers. By using Retrieval-Augmented Generation (RAG), it understands your questions in relation to the content of your uploaded PDF documents and maintains conversation history for follow-up questions.
 
 ## How It Works
 
