@@ -1,4 +1,4 @@
-# DocQ Chat :
+# DocQ Chat : llama3-70b-8192
 
 ## Introduction
 
